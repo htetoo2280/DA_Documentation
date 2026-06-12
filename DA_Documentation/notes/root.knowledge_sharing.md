@@ -1,9 +1,9 @@
 ---
-id: yb8e71dvu7ggrthedp4zg7d
-title: Knowledge_sharing
+id: 1vr69fioadne293m58todjy
+title: Knowledge_Sharing
 desc: ''
-updated: 1781160512950
-created: 1781160501827
+updated: 1781254198643
+created: 1781254189575
 ---
 
-- this is knowledge sharing
+--- this is knowledge sharing
