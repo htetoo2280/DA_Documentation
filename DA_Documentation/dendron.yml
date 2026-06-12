@@ -23,8 +23,7 @@ commands:
 workspace:
     vaults:
         -
-            fsPath: .
-            selfContained: true
+            fsPath: vault
             name: DA_Documentation
     journal:
         dailyDomain: daily
